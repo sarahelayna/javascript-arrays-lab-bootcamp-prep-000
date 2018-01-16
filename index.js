@@ -1,3 +1,6 @@
 const app = "I don't do much."
 
-kittens = ["Milo", "Otis", "Garfield"]
+function() {
+var kittens = ["Milo", "Otis", "Garfield"];
+return kittens;
+}
